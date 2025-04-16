@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksymphoni_composer=self.webpackChunksymphoni_composer||[]).push([[1903],{9531:o=>{o.exports=JSON.parse('{"blogBasePath":"/symphoni-composer/blog","blogTitle":"Blog","authorsListPath":"/symphoni-composer/blog/authors"}')}}]);
