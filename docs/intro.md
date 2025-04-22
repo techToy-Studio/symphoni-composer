@@ -17,10 +17,11 @@ Symphoni Composer is the official level editor for **Symphoni**, a mixed reality
 
 To begin creating your own Symphoni levels, follow these steps:
 
-1. [Install Symphoni Composer](/docs/getting-started/installation)
-2. [Learn the Basics](/docs/getting-started/basics)
-3. [Create Your First Level](/docs/getting-started/first-level)
-4. [Publish Your Creation](/docs/getting-started/publishing)
+1. [Installation](/docs/getting-started/installation)
+2. [Creating Your Symphoni](/docs/getting-started/creating-your-symphoni)
+3. [Controls and Shortcuts](/docs/getting-started/controls)
+4. [Create Your First Level](/docs/getting-started/first-level)
+5. [Publish Your Creation](/docs/getting-started/publishing)
 
 ## Map Design Guide
 

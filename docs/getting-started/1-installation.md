@@ -1,27 +1,27 @@
 ---
 sidebar_position: 1
+title: Installation
+description: Get started with Symphoni Composer
 ---
 
 # Installation
 
-Welcome to the installation guide for Symphoni Composer! This guide will help you set up the level editor on your system.
+## Download and Install
+1. Download Symphoni Composer from the official website
+2. Run the installer
+3. Follow the setup wizard
+4. Launch the application
 
 ## System Requirements
-
-Before installing Symphoni Composer, ensure your system meets the following requirements:
-
 - Windows 10 or later
-- 8GB RAM minimum (16GB recommended)
-- DirectX 11 compatible GPU
+- 4GB RAM minimum
 - 2GB free disk space
-- Internet connection for downloading and updates
+- DirectX 11 compatible graphics card
 
-## Download and Install
-
-1. Visit the [Symphoni Composer download page](https://github.com/symphoni-game/symphoni-composer/releases)
-2. Download the latest release for your operating system
-3. Run the installer and follow the on-screen instructions
-4. Launch Symphoni Composer from your desktop or start menu
+## First Launch
+- Create your account
+- Set up your preferences
+- Connect to the community hub
 
 ## First-Time Setup
 
@@ -54,6 +54,6 @@ If you encounter any issues during installation:
 
 Now that you have Symphoni Composer installed, you can:
 
-- [Learn the Basics](/symphoni-composer/docs/getting-started/basics)
-- [Create Your First Level](/symphoni-composer/docs/getting-started/first-level)
-- [Explore Advanced Features](/symphoni-composer/docs/advanced-features) 
+- [Start Creating Your Symphoni](/docs/getting-started/creating-your-symphoni)
+- [Learn the Controls](/docs/getting-started/controls)
+- [Explore Advanced Features](/docs/advanced-features) 

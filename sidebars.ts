@@ -14,19 +14,20 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    {
-      type: 'doc',
-      id: 'intro',
-      label: 'Welcome',
-    },
+    'intro',
     {
       type: 'category',
       label: 'Getting Started',
       items: [
         'getting-started/installation',
-        'getting-started/basics',
-        'getting-started/first-level',
-        'getting-started/publishing',
+        'getting-started/creating-your-symphoni',
+        'getting-started/interface',
+        'getting-started/navigation',
+        'getting-started/adding-notes',
+        'getting-started/editing-notes',
+        'getting-started/saving',
+        'getting-started/uploading',
+        'getting-started/tips',
       ],
     },
     {
