@@ -105,8 +105,8 @@ Learn these essential shortcuts:
 
 Now that you understand the interface, you can:
 
-- [Learn About Gesture Types](/docs/map-design/gestures)
-- [Create Your First Pattern](/docs/map-design/patterns)
-- [Design Your Environment](/docs/map-design/environment)
+- [Learn About Gesture Types](/symphoni-composer/docs/map-design/gestures)
+- [Create Your First Pattern](/symphoni-composer/docs/map-design/patterns)
+- [Design Your Environment](/symphoni-composer/docs/map-design/environment)
 
 Remember, practice makes perfect! The more you use the interface, the more efficient you'll become. 🎵✨ 

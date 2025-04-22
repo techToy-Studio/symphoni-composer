@@ -79,23 +79,23 @@ Try these steps:
 ### How do I report bugs?
 You can report bugs by:
 1. Using the in-editor bug report tool
-2. Creating an issue on our [GitHub repository](https://github.com/symphoni-game/symphoni-composer)
+2. Creating an issue on our [GitHub repository](https://github.com/symphoni/symphoni-composer)
 3. Contacting support through Discord
 
 ## Community and Resources
 
 ### Where can I find tutorials and guides?
 Check out our:
-- [Getting Started Guide](/docs/getting-started)
-- [Map Design Guide](/docs/map-design)
+- [Getting Started Guide](/symphoni-composer/docs/getting-started)
+- [Map Design Guide](/symphoni-composer/docs/map-design)
 - [Video Tutorials](https://youtube.com/symphoni)
 - [Community Discord](https://discord.gg/symphoni)
 
 ### How can I connect with other creators?
 Join our:
 - [Discord Community](https://discord.gg/symphoni)
-- [Creator Workshops](/docs/community/workshops)
-- [Level Showcase Events](/docs/community/showcase)
+- [Creator Workshops](/symphoni-composer/docs/community/workshops)
+- [Level Showcase Events](/symphoni-composer/docs/community/showcase)
 
 ### Are there any creator events or competitions?
 Yes! We regularly host:
@@ -104,4 +104,4 @@ Yes! We regularly host:
 - Community showcases
 - Special themed events
 
-Check our [Events Calendar](/docs/community/events) for upcoming opportunities! 
+Check our [Events Calendar](/symphoni-composer/docs/community/events) for upcoming opportunities! 

@@ -20,7 +20,7 @@ const config: Config = {
   organizationName: 'techToy-Studio', // Usually your GitHub org/user name.
   projectName: 'symphoni-composer', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -79,11 +79,6 @@ const config: Config = {
           label: 'Guide',
         },
         {
-          to: '/docs/map-design',
-          label: 'Map Design',
-          position: 'left',
-        },
-        {
           href: 'https://github.com/techToy-Studio/symphoni-composer',
           label: 'GitHub',
           position: 'right',
@@ -98,11 +93,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/intro',
-            },
-            {
-              label: 'Map Design Guide',
-              to: '/docs/map-design',
+              to: '/symphoni-composer/docs/intro',
             },
           ],
         },

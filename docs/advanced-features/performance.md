@@ -92,6 +92,6 @@ Performance optimization ensures your levels run smoothly on all target platform
 
 ## Next Steps
 
-- [Learn about Scripting](/docs/advanced-features/scripting)
-- [Study Custom Assets](/docs/advanced-features/custom-assets)
-- [Explore Exporting](/docs/advanced-features/exporting) 
+- [Learn about Scripting](/symphoni-composer/docs/advanced-features/scripting)
+- [Study Custom Assets](/symphoni-composer/docs/advanced-features/custom-assets)
+- [Explore Exporting](/symphoni-composer/docs/advanced-features/exporting) 

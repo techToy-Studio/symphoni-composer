@@ -148,8 +148,8 @@ Section 4: Complex Combinations
 
 Now that you understand advanced patterns, you can:
 
-- [Explore Storytelling](/docs/map-design/storytelling)
-- [Study Difficulty Balancing](/docs/map-design/difficulty)
-- [Learn Performance Optimization](/docs/map-design/optimization)
+- [Explore Storytelling](/symphoni-composer/docs/map-design/storytelling)
+- [Study Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
+- [Learn Performance Optimization](/symphoni-composer/docs/map-design/optimization)
 
 Remember, advanced patterns should enhance the experience, not overwhelm it! 🎵✨ 

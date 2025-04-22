@@ -92,6 +92,6 @@ Scripting allows you to create custom behaviors and interactions in your levels.
 
 ## Next Steps
 
-- [Learn about Custom Assets](/docs/advanced-features/custom-assets)
-- [Study Performance](/docs/advanced-features/performance)
-- [Explore Exporting](/docs/advanced-features/exporting) 
+- [Learn about Custom Assets](/symphoni-composer/docs/advanced-features/custom-assets)
+- [Study Performance](/symphoni-composer/docs/advanced-features/performance)
+- [Explore Exporting](/symphoni-composer/docs/advanced-features/exporting) 

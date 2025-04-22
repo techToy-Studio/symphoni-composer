@@ -47,13 +47,13 @@ If you encounter any issues during installation:
 1. Ensure your system meets the minimum requirements
 2. Check that you have the latest graphics drivers installed
 3. Try running the installer as administrator
-4. Visit our [FAQ](/docs/faq) for common installation issues
+4. Visit our [FAQ](/symphoni-composer/docs/faq) for common installation issues
 5. Contact support through our [Discord server](https://discord.gg/symphoni)
 
 ## Next Steps
 
 Now that you have Symphoni Composer installed, you can:
 
-- [Learn the Basics](/docs/getting-started/basics)
-- [Create Your First Level](/docs/getting-started/first-level)
-- [Explore Advanced Features](/docs/advanced-features) 
+- [Learn the Basics](/symphoni-composer/docs/getting-started/basics)
+- [Create Your First Level](/symphoni-composer/docs/getting-started/first-level)
+- [Explore Advanced Features](/symphoni-composer/docs/advanced-features) 

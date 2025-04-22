@@ -92,6 +92,6 @@ Performance optimization ensures your levels run smoothly and efficiently on all
 
 ## Next Steps
 
-- [Explore Community Features](/docs/community/features)
-- [Study Advanced Patterns](/docs/map-design/advanced-patterns)
-- [Learn Difficulty Balancing](/docs/map-design/difficulty) 
+- [Explore Community Features](/symphoni-composer/docs/community/features)
+- [Study Advanced Patterns](/symphoni-composer/docs/map-design/advanced-patterns)
+- [Learn Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty) 

@@ -65,8 +65,8 @@ The environment is the visual space where your level takes place. You can:
 
 Now that you understand the basics, you can:
 
-- [Create Your First Level](/docs/getting-started/first-level)
-- [Learn About Gesture Types](/docs/map-design/gestures)
-- [Explore Environment Design](/docs/map-design/environment)
+- [Create Your First Level](/symphoni-composer/docs/getting-started/first-level)
+- [Learn About Gesture Types](/symphoni-composer/docs/map-design/gestures)
+- [Explore Environment Design](/symphoni-composer/docs/map-design/environment)
 
 Remember, practice makes perfect! Don't be afraid to experiment and try new things. 🎵✨ 

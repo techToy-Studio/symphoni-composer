@@ -41,26 +41,26 @@ Before diving into level creation, it's important to understand the core element
 
 To begin creating your own levels:
 
-1. [Learn the Interface](/docs/map-design/interface)
-2. [Understand Gesture Types](/docs/map-design/gestures)
-3. [Create Your First Pattern](/docs/map-design/patterns)
-4. [Design Your Environment](/docs/map-design/environment)
+1. [Learn the Interface](/symphoni-composer/docs/map-design/interface)
+2. [Understand Gesture Types](/symphoni-composer/docs/map-design/gestures)
+3. [Create Your First Pattern](/symphoni-composer/docs/map-design/patterns)
+4. [Design Your Environment](/symphoni-composer/docs/map-design/environment)
 
 ## Advanced Topics
 
 Once you're comfortable with the basics, explore these advanced topics:
 
-- [Advanced Pattern Design](/docs/map-design/advanced-patterns)
-- [Environmental Storytelling](/docs/map-design/storytelling)
-- [Difficulty Balancing](/docs/map-design/difficulty)
-- [Performance Optimization](/docs/map-design/optimization)
+- [Advanced Pattern Design](/symphoni-composer/docs/map-design/advanced-patterns)
+- [Environmental Storytelling](/symphoni-composer/docs/map-design/storytelling)
+- [Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
+- [Performance Optimization](/symphoni-composer/docs/map-design/optimization)
 
 ## Community Resources
 
 Join our community to share and learn from other creators:
 
 - [Discord Community](https://discord.gg/symphoni)
-- [Level Showcase](/docs/map-design/showcase)
-- [Creator Spotlights](/docs/map-design/spotlights)
+- [Level Showcase](/symphoni-composer/docs/map-design/showcase)
+- [Creator Spotlights](/symphoni-composer/docs/map-design/spotlights)
 
 Remember, great level design is an art that takes time to master. Don't be afraid to experiment, learn from others, and most importantly, have fun creating! 🎵✨ 

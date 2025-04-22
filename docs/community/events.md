@@ -72,6 +72,6 @@ Community events bring creators together to share, learn, and create together.
 
 ## Next Steps
 
-- [Explore Showcase](/docs/community/showcase)
-- [Learn about Spotlights](/docs/community/spotlights)
-- [Join Workshops](/docs/community/workshops) 
+- [Explore Showcase](/symphoni-composer/docs/community/showcase)
+- [Learn about Spotlights](/symphoni-composer/docs/community/spotlights)
+- [Join Workshops](/symphoni-composer/docs/community/workshops) 

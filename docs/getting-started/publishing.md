@@ -102,7 +102,7 @@ If you encounter issues while publishing:
    - Unsupported file formats
 
 3. **Getting Help**
-   - Check the [FAQ](/docs/faq)
+   - Check the [FAQ](/symphoni-composer/docs/faq)
    - Ask in the [Discord community](https://discord.gg/symphoni)
    - Contact support if needed
 
@@ -110,8 +110,8 @@ If you encounter issues while publishing:
 
 After publishing your level:
 
-- [Learn Advanced Features](/docs/advanced-features)
-- [Join Community Events](/docs/community/events)
-- [Explore Level Design](/docs/map-design)
+- [Learn Advanced Features](/symphoni-composer/docs/advanced-features)
+- [Join Community Events](/symphoni-composer/docs/community/events)
+- [Explore Level Design](/symphoni-composer/docs/map-design)
 
 Remember, publishing is just the beginning! Keep creating, improving, and sharing your magical experiences with the world. 🎵✨ 

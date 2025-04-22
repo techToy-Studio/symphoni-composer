@@ -72,6 +72,6 @@ The showcase highlights exceptional levels and creations from the Symphoni commu
 
 ## Next Steps
 
-- [Learn about Spotlights](/docs/community/spotlights)
-- [Join Workshops](/docs/community/workshops)
-- [Participate in Events](/docs/community/events) 
+- [Learn about Spotlights](/symphoni-composer/docs/community/spotlights)
+- [Join Workshops](/symphoni-composer/docs/community/workshops)
+- [Participate in Events](/symphoni-composer/docs/community/events) 

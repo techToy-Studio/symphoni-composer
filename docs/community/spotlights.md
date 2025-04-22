@@ -72,6 +72,6 @@ Spotlights highlight exceptional creators and their contributions to the Symphon
 
 ## Next Steps
 
-- [Join Workshops](/docs/community/workshops)
-- [Participate in Events](/docs/community/events)
-- [Explore Showcase](/docs/community/showcase) 
+- [Join Workshops](/symphoni-composer/docs/community/workshops)
+- [Participate in Events](/symphoni-composer/docs/community/events)
+- [Explore Showcase](/symphoni-composer/docs/community/showcase) 

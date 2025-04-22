@@ -30,41 +30,6 @@ const sidebars: SidebarsConfig = {
       ],
     },
     {
-      type: 'category',
-      label: 'Map Design Guide',
-      items: [
-        'map-design/intro',
-        'map-design/interface',
-        'map-design/gestures',
-        'map-design/patterns',
-        'map-design/environment',
-        'map-design/advanced-patterns',
-        'map-design/storytelling',
-        'map-design/difficulty',
-        'map-design/optimization',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Advanced Features',
-      items: [
-        'advanced-features/custom-assets',
-        'advanced-features/scripting',
-        'advanced-features/performance',
-        'advanced-features/exporting',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Community',
-      items: [
-        'community/workshops',
-        'community/showcase',
-        'community/events',
-        'community/spotlights',
-      ],
-    },
-    {
       type: 'doc',
       id: 'faq',
       label: 'FAQ',

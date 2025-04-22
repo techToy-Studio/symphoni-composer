@@ -72,6 +72,6 @@ Exporting allows you to share your levels with others and deploy them to differe
 
 ## Next Steps
 
-- [Learn about Performance](/docs/advanced-features/performance)
-- [Explore Scripting](/docs/advanced-features/scripting)
-- [Study Custom Assets](/docs/advanced-features/custom-assets) 
+- [Learn about Performance](/symphoni-composer/docs/advanced-features/performance)
+- [Explore Scripting](/symphoni-composer/docs/advanced-features/scripting)
+- [Study Custom Assets](/symphoni-composer/docs/advanced-features/custom-assets) 

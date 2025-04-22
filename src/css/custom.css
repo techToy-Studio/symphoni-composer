@@ -307,3 +307,64 @@ code {
 .tabs__item:hover {
   color: #ff8c00;
 }
+
+/* Sidebar dropdown icon customization */
+.menu__caret:before {
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1.5rem 1.5rem;
+  content: '';
+  display: block;
+  height: 1.25rem;
+  width: 1.25rem;
+  transform: rotate(0deg);
+  transition: transform 0.2s ease;
+}
+
+.menu__list-item--collapsed .menu__caret:before {
+  transform: rotate(-90deg);
+}
+
+/* Custom dropdown icon using a plus/minus symbol */
+.menu__caret:before {
+  content: '+';
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.2;
+  color: #ffffff !important;
+}
+
+.menu__list-item--collapsed .menu__caret:before {
+  content: '-';
+  color: #ffffff !important;
+}
+
+/* Ensure the icon stays white in all states */
+.menu__caret:hover:before,
+.menu__list-item--collapsed .menu__caret:hover:before {
+  color: #ffffff !important;
+}
+
+/* Sidebar section icons */
+.menu__link--sublist:after {
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1.5rem 1.5rem;
+  filter: brightness(0) invert(1);
+}
+
+.menu__link--sublist:hover:after {
+  filter: brightness(0) invert(1);
+}
+
+/* Hide dark mode toggle */
+.theme-toggle,
+.toggleButton_gllP,
+.clean-btn {
+  display: none !important;
+}
+
+.navbar__items--right > div:last-child {
+  display: none !important;
+}
+
+[data-theme='dark'] .theme-toggle {
+  display: none !important;
+}

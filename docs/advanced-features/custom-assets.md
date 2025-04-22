@@ -70,6 +70,6 @@ Custom assets allow you to personalize your levels with unique visual elements.
 
 ## Next Steps
 
-- [Learn about Exporting](/docs/advanced-features/exporting)
-- [Study Performance Optimization](/docs/advanced-features/performance)
-- [Explore Scripting](/docs/advanced-features/scripting) 
+- [Learn about Exporting](/symphoni-composer/docs/advanced-features/exporting)
+- [Study Performance Optimization](/symphoni-composer/docs/advanced-features/performance)
+- [Explore Scripting](/symphoni-composer/docs/advanced-features/scripting) 

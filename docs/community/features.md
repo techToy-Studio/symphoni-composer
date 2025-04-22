@@ -72,7 +72,7 @@ Community features enable creators to connect, share, and collaborate within the
 
 ## Next Steps
 
-- [Participate in Events](/docs/community/events)
-- [Explore Showcase](/docs/community/showcase)
-- [Learn about Spotlights](/docs/community/spotlights)
-- [Join Workshops](/docs/community/workshops) 
+- [Participate in Events](/symphoni-composer/docs/community/events)
+- [Explore Showcase](/symphoni-composer/docs/community/showcase)
+- [Learn about Spotlights](/symphoni-composer/docs/community/spotlights)
+- [Join Workshops](/symphoni-composer/docs/community/workshops) 

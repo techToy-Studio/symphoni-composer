@@ -122,8 +122,8 @@ Gestures that must be performed in quick succession.
 
 Now that you understand gesture types, you can:
 
-- [Create Your First Pattern](/docs/map-design/patterns)
-- [Learn About Pattern Design](/docs/map-design/advanced-patterns)
-- [Explore Difficulty Balancing](/docs/map-design/difficulty)
+- [Create Your First Pattern](/symphoni-composer/docs/map-design/patterns)
+- [Learn About Pattern Design](/symphoni-composer/docs/map-design/advanced-patterns)
+- [Explore Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
 
 Remember, the best gestures feel natural and enhance the musical experience! 🎵✨ 

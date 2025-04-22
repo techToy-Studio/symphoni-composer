@@ -179,8 +179,8 @@ The environment is a crucial aspect of Symphoni levels, creating the visual atmo
 
 Now that you understand environment design, you can:
 
-- [Learn About Advanced Patterns](/docs/map-design/advanced-patterns)
-- [Explore Storytelling](/docs/map-design/storytelling)
-- [Study Performance Optimization](/docs/map-design/optimization)
+- [Learn About Advanced Patterns](/symphoni-composer/docs/map-design/advanced-patterns)
+- [Explore Storytelling](/symphoni-composer/docs/map-design/storytelling)
+- [Study Performance Optimization](/symphoni-composer/docs/map-design/optimization)
 
 Remember, great environments enhance the magical experience! 🎵✨ 

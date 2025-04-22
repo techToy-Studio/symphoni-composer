@@ -76,8 +76,8 @@ This guide will walk you through creating your first level in Symphoni Composer,
 
 After completing your first level, you might want to:
 
-- [Learn about Advanced Features](/docs/advanced-features)
-- [Explore Map Design Principles](/docs/map-design)
-- [Join the Community](/docs/community)
+- [Learn about Advanced Features](/symphoni-composer/docs/advanced-features)
+- [Explore Map Design Principles](/symphoni-composer/docs/map-design)
+- [Join the Community](/symphoni-composer/docs/community)
 
 Remember, every great creator started with their first level. Keep practicing and you'll be creating amazing experiences in no time! 🎵✨ 

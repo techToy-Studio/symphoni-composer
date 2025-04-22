@@ -13,7 +13,6 @@ Symphoni is an immersive mixed reality rhythm game that combines the creative ar
 ## What Can You Do With Symphoni Composer?
 
 - Create custom levels with unique musical arrangements
-- Design magical gesture patterns that sync with the music
 - Build immersive environments that enhance the gameplay experience
 - Share your creations with the Symphoni community
 - Test and refine your levels before publishing

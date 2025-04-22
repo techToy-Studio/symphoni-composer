@@ -92,6 +92,6 @@ Difficulty balancing ensures your levels provide appropriate challenge and enjoy
 
 ## Next Steps
 
-- [Learn Performance Optimization](/docs/map-design/optimization)
-- [Explore Community Features](/docs/community/features)
-- [Study Advanced Patterns](/docs/map-design/advanced-patterns) 
+- [Learn Performance Optimization](/symphoni-composer/docs/map-design/optimization)
+- [Explore Community Features](/symphoni-composer/docs/community/features)
+- [Study Advanced Patterns](/symphoni-composer/docs/map-design/advanced-patterns) 

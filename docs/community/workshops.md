@@ -72,6 +72,6 @@ Workshops provide opportunities for learning, skill development, and community e
 
 ## Next Steps
 
-- [Participate in Events](/docs/community/events)
-- [Explore Showcase](/docs/community/showcase)
-- [Learn about Spotlights](/docs/community/spotlights) 
+- [Participate in Events](/symphoni-composer/docs/community/events)
+- [Explore Showcase](/symphoni-composer/docs/community/showcase)
+- [Learn about Spotlights](/symphoni-composer/docs/community/spotlights) 
