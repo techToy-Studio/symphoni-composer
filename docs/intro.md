@@ -4,11 +4,7 @@ sidebar_position: 1
 
 # Welcome to Symphoni Composer
 
-Symphoni Composer is the official level editor for Symphoni, a mixed reality rhythm game where music conducting meets magical wizardry. This powerful tool allows creators to design and build custom levels that can be uploaded to the official game for players to enjoy.
-
-## What is Symphoni?
-
-Symphoni is an immersive mixed reality rhythm game that combines the creative art of musical conducting with magical wizardry. Players conduct music through magical gestures, creating a unique and engaging gameplay experience.
+Symphoni Composer is the official level editor for **Symphoni**, a mixed reality rhythm game where music conducting meets magical wizardry. This powerful tool allows creators to design and build custom levels that can be uploaded to the official game for players to enjoy.
 
 ## What Can You Do With Symphoni Composer?
 
