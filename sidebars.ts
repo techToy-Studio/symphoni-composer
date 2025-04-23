@@ -27,11 +27,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Create Maps',
       items: [
-        'map/note-management',
         'map/map-interface',
-        'map/edit-notes',
-        'map/delete-notes',
-        'map/utilities',
+        'map/note-management',
+        'map/arc-note',
+        'map/bubble-note',
+        'map/moving-bubble-note',
       ],
     },
     {

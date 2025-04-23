@@ -1,7 +1,7 @@
 ---
-sidebar_position: 6
-title: Utilities
-description: Learn how to edit and modify notes in your Symphoni level
+sidebar_position: 5
+title: Note — Moving Bubble
+description: Learn how to edit a moving bubble
 ---
 
 # Editing Notes

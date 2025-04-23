@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
-title: Deleting Notes
-description: Learn how to edit and modify notes in your Symphoni level
+sidebar_position: 4
+title: Note — Bubble
+description: Learn how to edit a bubble
 ---
 
 # Editing Notes
