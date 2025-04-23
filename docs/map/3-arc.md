@@ -6,11 +6,11 @@ description: Learn how to edit an arc
 
 # Arc
 
-## Arc Time Window
+## Arc Preview Time Window
 
-The Arc Time Window refers to the amount of time the arc stays in view within the preview space. This time window is determined by the **Preview Time** dictated in the Setup tab. The longer the **Preview Time**, the slower the note.. and the shorter the **Preview Time**, the faster the note flies towards the ring.
+The Arc Preview Time Window refers to the amount of time the arc stays in view within the preview space before it overlaps with the ring. The Arc Preview Time Window is exactly equivalent to the **Note Preview Time** dictated in the Setup tab, in seconds. The longer the **Note Preview Time**, the slower the note.. and the shorter the **Note Preview Time**, the faster the note flies towards the ring.
 
-The time window the player gets to swing at the arc is also dictated by **Preview Time**, so the shorter the **Preview Time** is, the harder it gets for the player to score.
+The time window the player gets to swing at the arc is also dictated by **Note Preview Time**, so the shorter the **Note Preview Time** is, the harder it becomes for the player to score.
 
 ## Properties
 
@@ -27,5 +27,5 @@ The time window the player gets to swing at the arc is also dictated by **Previe
 - Arc properties are pretty straightforward!
 
 ## Preview Space Edits
-- Drag and drop an arc in the preview space to modify its angle
-- You can also hover & click on an arc in the preview space to select it
+- Drag and drop an arc in the preview space to modify its angle.
+- You can also hover & click on an arc in the preview space to select it.

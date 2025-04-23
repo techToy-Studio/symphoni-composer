@@ -6,9 +6,9 @@ description: Learn how to edit a bubble
 
 # Bubble
 
-## Bubble Time Window
+## Bubble Preview Time Window
 
-The Arc Time Window refers to the amount of time the arc stays in view within the preview space. This time window is determined by the **Preview Time** dictated in the Setup tab. The longer the **Preview Time**, the slower the note.. and the shorter the **Preview Time**, the faster the note flies towards the ring.
+The Bubble Preview Time Window refers to the amount of time the arc stays in view within the preview space. This time window is determined by the **Preview Time** dictated in the Setup tab. The longer the **Preview Time**, the slower the note.. and the shorter the **Preview Time**, the faster the note flies towards the ring.
 
 The time window the player gets to swing at the arc is also dictated by **Preview Time**, so the shorter the **Preview Time** is, the harder it gets for the player to score.
 
