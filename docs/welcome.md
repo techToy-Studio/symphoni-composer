@@ -7,21 +7,21 @@ title: Welcome to Symphoni Composer
 
 # Welcome to Symphoni Composer
 
-Symphoni Composer is the official level editor for **Symphoni**, a mixed reality rhythm game where music conducting meets magical wizardry. This powerful tool allows creators to design and build custom levels that can be uploaded to the official game for players to enjoy.
+Symphoni Composer is the official level editor for **[Symphoni](https://www.meta.com/experiences/symphoni/28048080154806801/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect)**, a mixed reality rhythm game where music conducting meets magical wizardry. This powerful tool allows creators to design and build custom levels that can be uploaded to the official game for players to enjoy.
 
 ## What Can You Do With Symphoni Composer?
 
 - Create custom levels with unique patterns
 - Build immersive environments that enhance the gameplay experience
 - Test and preview your levels before publishing
-- Share your creations with the Symphoni community on Mod.io
+- Share your creations with the Symphoni community on **[Mod.io](https://mod.io/g/symphoni)**
 
 ## Getting Started
 
 To begin creating your own Symphoni levels, follow these steps:
 
 1. [Install Symphoni Composer](/docs/getting-started/installation)
-2. [Create Your First Level](/docs/getting-started/creating-your-symphoni)
+2. [Create Your First Level](/docs/getting-started/setup)
 2. [Save Your Symphoni](/docs/saving)
 4. [Upload To Mod.io](/docs/uploading)
 
