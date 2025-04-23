@@ -8,15 +8,15 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #7852ff;
-  --ifm-color-primary-dark: #6f27ac;
-  --ifm-color-primary-darker: #6925a2;
-  --ifm-color-primary-darkest: #571e85;
-  --ifm-color-primary-light: #7852ff;
-  --ifm-color-primary-lighter: #8d35d6;
-  --ifm-color-primary-lightest: #9f4bdd;
+  --ifm-color-primary: rgb(202, 137, 255);
+  --ifm-color-primary-dark: rgb(202, 137, 255);
+  --ifm-color-primary-darker: rgb(202, 137, 255);
+  --ifm-color-primary-darkest: rgb(202, 137, 255);
+  --ifm-color-primary-light: rgb(202, 137, 255);
+  --ifm-color-primary-lighter: rgb(202, 137, 255);
+  --ifm-color-primary-lightest: rgb(202, 137, 255);
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(123, 44, 191, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(202, 137, 255, 0.1);
   --ifm-font-family-base: 'Urbanist', system-ui, -apple-system, sans-serif;
   --ifm-heading-font-family: 'Urbanist', system-ui, -apple-system, sans-serif;
   --ifm-background-color: #0a0a0f;
@@ -32,26 +32,10 @@
   --ifm-h6-font-size: 1rem;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #6b3fbe;
-  --ifm-color-primary-dark: #8d3fd3;
-  --ifm-color-primary-darker: #853bcd;
-  --ifm-color-primary-darkest: #6f31a9;
-  --ifm-color-primary-light: #ad5de7;
-  --ifm-color-primary-lighter: #b367e9;
-  --ifm-color-primary-lightest: #c78aed;
-  --docusaurus-highlighted-code-line-bg: rgba(157, 78, 221, 0.3);
-  --ifm-background-color: #0a0a0f;
-  --ifm-background-surface-color: #121218;
-  --ifm-color-content: #ffffff;
-  --ifm-color-content-secondary: #e0e0e0;
-}
-
 /* Custom styles */
 .navbar {
   background: linear-gradient(90deg, #0a0a0f 0%, #121218 100%);
-  box-shadow: 0 4px 20px rgba(157, 78, 221, 0.2);
+  box-shadow: 0 4px 20px rgba(202, 137, 255, 0);
   padding: 1rem 2rem;
 }
 
@@ -70,7 +54,7 @@
 .hero__title {
   font-weight: 700;
   letter-spacing: -0.5px;
-  text-shadow: 0 0 20px rgba(157, 78, 221, 0.5);
+  text-shadow: 0 0 20px rgba(202, 137, 255, 0);
   font-size: 3.5rem;
   margin-bottom: 1.5rem;
   line-height: 1.2;
@@ -110,26 +94,26 @@
 .card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   background: var(--ifm-background-surface-color);
-  border: 1px solid rgba(157, 78, 221, 0.1);
+  border: 1px solid rgb(202, 137, 255);
   border-radius: 8px;
 }
 
 .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 30px rgba(157, 78, 221, 0.2);
+  box-shadow: 0 8px 30px rgba(202, 137, 255, 0);
 }
 
 /* Code block styling */
 .prism-code {
   background: #0a0a0f !important;
-  border: 1px solid rgba(157, 78, 221, 0.1);
+  border: 1px solid rgba(202, 137, 255, 0.1);
   border-radius: 6px;
 }
 
 /* Footer styling */
 .footer {
   background: linear-gradient(90deg, #0a0a0f 0%, #121218 100%);
-  border-top: 1px solid rgba(157, 78, 221, 0.1);
+  border-top: 1px solid rgba(202, 137, 255, 0.1);
   padding: 2rem 0;
 }
 
@@ -148,7 +132,7 @@
 
 .button--primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(157, 78, 221, 0.3);
+  box-shadow: 0 4px 15px rgba(202, 137, 255, 0);
 }
 
 /* Text readability */
@@ -183,14 +167,14 @@
 
 /* Link styling */
 .markdown a {
-  color: #7852ff;
+  color: rgb(202, 137, 255);
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 .markdown a:hover {
   color: #ff8c00;
-  text-decoration: none;
+  background: rgba(202, 137, 255, 0);
 }
 
 /* Menu styling */
@@ -210,7 +194,7 @@
 
 .menu__link:hover {
   color: #ff8c00;
-  background: rgba(157, 78, 221, 0.1);
+  background: rgba(202, 137, 255, 0);
 }
 
 /* Table styling */
@@ -227,12 +211,12 @@ table th {
   color: var(--ifm-color-content);
   font-weight: 600;
   padding: 0.75rem 1rem;
-  border-bottom: 2px solid rgba(157, 78, 221, 0.2);
+  border-bottom: 2px solid rgb(202, 137, 255);
 }
 
 table td {
   padding: 0.75rem 1rem;
-  border-bottom: 1px solid rgba(157, 78, 221, 0.1);
+  border-bottom: 1px solid rgb(202, 137, 255);
 }
 
 /* Scrollbar styling */
@@ -275,27 +259,29 @@ code {
   font-size: 0.9em;
   padding: 0.2em 0.4em;
   border-radius: 3px;
-  background: rgba(157, 78, 221, 0.1);
+  background: rgba(202, 137, 255, 0.1);
 }
 
 /* Footer link styling */
 .footer__link-item {
-  color: #7852ff;
+  color: rgb(202, 137, 255);
   transition: color 0.2s ease;
 }
 
 .footer__link-item:hover {
   color: #ff8c00;
+  background: rgba(202, 137, 255, 0);
 }
 
 /* Navbar link styling */
 .navbar__item {
-  color: #7852ff;
+  color: rgb(202, 137, 255);
   transition: color 0.2s ease;
 }
 
 .navbar__item:hover {
   color: #ff8c00;
+  background: rgba(202, 137, 255, 0);
 }
 
 /* Tab bar styling */
@@ -306,6 +292,7 @@ code {
 
 .tabs__item:hover {
   color: #ff8c00;
+  background: rgba(202, 137, 255, 0);
 }
 
 /* Sidebar dropdown icon customization */
