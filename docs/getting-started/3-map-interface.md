@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Composer Interface
-description: Learn about the Symphoni Composer interface
+description: Learn about the Symphoni Composer Mapping Interface
 ---
 
 # Composer Interface

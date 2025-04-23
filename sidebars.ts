@@ -21,7 +21,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'getting-started/installation',
         'getting-started/creating-your-symphoni',
-        'getting-started/interface',
+        'getting-started/map-interface',
         'getting-started/navigation',
         'getting-started/adding-notes',
         'getting-started/editing-notes',
