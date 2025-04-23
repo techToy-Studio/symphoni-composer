@@ -21,9 +21,9 @@ const sidebars: SidebarsConfig = {
       items: [
         'getting-started/installation',
         'getting-started/creating-your-symphoni',
-        'getting-started/map-interface',
       ],
     },
+    'composer-interface',
     {
       type: 'category',
       label: 'Create Maps',
