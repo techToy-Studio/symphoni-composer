@@ -55,7 +55,7 @@ Once you're comfortable with the basics, explore these advanced topics:
 - [Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
 - [Performance Optimization](/symphoni-composer/docs/map-design/optimization)
 
-## Community Resources
+## Community
 
 Join our community to share and learn from other creators:
 

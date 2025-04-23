@@ -27,7 +27,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Create Maps',
       items: [
-        'map/create-notes',
+        'map/manage-notes',
         'map/edit-notes',
         'map/delete-notes',
         'map/utilities',

@@ -4,32 +4,23 @@ title: Create Notes
 description: Learn how to add notes to your Symphoni level
 ---
 
-# Create Notes
+# Manage Notes
 
-## A Note Consists Of:
-
-| Field         | Description                        |
-|---------------|------------------------------------|
-| Timestamp     | Start time of the note             |
-| Duration      | Active time window                 |
-| Preview Time  | When the note appears in preview   |
-| Properties    | Additional custom attributes       |
-
-## Basic Note Placement
+## Create Notes
 
 1. Select a note type from the toolbar on the right.
 2. Click in the timeline to place a note at a specific time.
 3. Alternatively, click in the preview space to place a note visually.
 4. Adjust any initial properties for newly placed notes (e.g., type, duration).
 
-## Note Types
+## Select Notes
 
 - Basic notes
 - Hold notes
 - Swipe notes
 - Special notes
 
-## Note Properties
+## Delete Notes
 
 - Timing and position
 - Note type and behavior

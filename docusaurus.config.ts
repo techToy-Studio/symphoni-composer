@@ -89,6 +89,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Getting Started',
+              to: '/docs/getting-started/installation',
+            },
+          ],
+        },
+        {
           title: 'Community',
           items: [
             {

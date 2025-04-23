@@ -138,8 +138,8 @@ Beat 4: Burst Center
 
 Now that you understand patterns, you can:
 
-- [Learn Advanced Pattern Design](/symphoni-composer/guide/map-design/advanced-patterns)
-- [Explore Environment Design](/symphoni-composer/guide/map-design/environment)
-- [Study Difficulty Balancing](/symphoni-composer/guide/map-design/difficulty)
+- [Learn Advanced Pattern Design](/symphoni-composer/docs/map-design/advanced-patterns)
+- [Explore Environment Design](/symphoni-composer/docs/map-design/environment)
+- [Study Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
 
 Remember, great patterns enhance the music and create memorable experiences! 🎵✨ 

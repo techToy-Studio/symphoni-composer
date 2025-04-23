@@ -35,5 +35,5 @@ If you encounter any issues during installation:
 
 ## Next Steps
 
-- [Start Creating Your Symphoni](/guide/getting-started/creating-your-symphoni)
-- [Learn the Composer Interface](/guide/getting-started/map-interface)
+- [Start Creating Your Symphoni](/docs/getting-started/creating-your-symphoni)
+- [Learn the Composer Interface](/docs/getting-started/map-interface)
