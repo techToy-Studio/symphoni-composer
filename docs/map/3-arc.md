@@ -4,14 +4,19 @@ title: Note — Arc
 description: Learn how to edit an arc
 ---
 
-# An Arc Note Consists Of:
+# Arc
+
+## An Arc Note Consists Of:
 
 | Field         | Description                                                                             |
 |---------------|-----------------------------------------------------------------------------------------|
-| Timestamp     | Time in which note perfectly overlaps with ring                                         |
+| Timestamp     | The song timestamp in which note perfectly overlaps with ring                           |
 | Duration      | Active time window for user to swing and earn points                                    |
 | Preview Time  | Duration that the note appears for before overlapping with the ring                     |
 | Properties    | Additional custom attributes                                                            |
+
+The placement of the arc note in the timeline dictates its timestamp.
+
 
 ## Basic Editing
 - Click and drag to move notes

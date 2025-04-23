@@ -29,9 +29,9 @@ const sidebars: SidebarsConfig = {
       items: [
         'map/map-interface',
         'map/note-management',
-        'map/arc-note',
-        'map/bubble-note',
-        'map/moving-bubble-note',
+        'map/arc',
+        'map/bubble',
+        'map/moving-bubble',
       ],
     },
     {

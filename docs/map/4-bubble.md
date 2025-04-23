@@ -4,7 +4,7 @@ title: Note — Bubble
 description: Learn how to edit a bubble
 ---
 
-# Editing Notes
+# Bubble
 
 ## Basic Editing
 - Click and drag to move notes

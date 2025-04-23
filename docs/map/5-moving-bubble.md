@@ -4,7 +4,7 @@ title: Note — Moving Bubble
 description: Learn how to edit a moving bubble
 ---
 
-# Editing Notes
+# Moving Bubble
 
 ## Basic Editing
 - Click and drag to move notes
