@@ -27,7 +27,6 @@ const sidebars: SidebarsConfig = {
         'getting-started/editing-notes',
         'getting-started/saving',
         'getting-started/uploading',
-        'getting-started/tips',
       ],
     },
     {
