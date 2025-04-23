@@ -78,11 +78,11 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        {
-          href: 'https://github.com/techToy-Studio/symphoni-composer',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/techToy-Studio/symphoni-composer',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
