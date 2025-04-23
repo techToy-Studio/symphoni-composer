@@ -23,11 +23,42 @@ const sidebars: SidebarsConfig = {
         'getting-started/creating-your-symphoni',
         'getting-started/map-interface',
         'getting-started/navigation',
-        'getting-started/adding-notes',
-        'getting-started/editing-notes',
-        'getting-started/saving',
-        'getting-started/uploading',
       ],
+    },
+    {
+      type: 'category',
+      label: 'Create Maps',
+      items: [
+        'map/mapstart',
+        'map/adding-notes',
+        'map/editing-notes',
+        'map/maptips',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Create Visuals',
+      items: [
+        'visual/visualstart',
+        'visual/adding-notes',
+        'visual/editing-notes',
+        'visual/visualtips',
+      ],
+    },
+    {
+      type: 'doc',
+      id: 'saving',
+      label: 'Saving',
+    },
+    {
+      type: 'doc',
+      id: 'uploading',
+      label: 'Uploading',
+    },
+    {
+      type: 'doc',
+      id: 'controls',
+      label: 'Controls',
     },
     {
       type: 'doc',
