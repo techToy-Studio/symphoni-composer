@@ -6,11 +6,6 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
-}
-
 .featureVideo {
   width: 100%;
   max-width: 800px;
@@ -20,4 +15,9 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #f5f5f5;
   min-height: 300px;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
 }

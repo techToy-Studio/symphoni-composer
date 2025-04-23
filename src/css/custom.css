@@ -192,9 +192,35 @@
   transition: all 0.2s ease;
 }
 
-.menu__link:hover {
+/* Hover and active states */
+.menu__link:hover,
+.menu__link--active:not(.menu__link--sublist) {
   color: #ff8c00;
-  background: rgba(202, 137, 255, 0);
+  background: #2a2a2a !important;
+}
+
+/* Active dropdown states */
+.menu__list-item-collapsible--active,
+.menu__list-item-collapsible--active > .menu__link,
+.menu__link--sublist.menu__link--active {
+  color: #ff8c00 !important;
+}
+
+/* Dropdown specific styling */
+.menu__link--sublist.menu__link--active {
+  font-weight: 500 !important;
+}
+
+.menu__link--sublist.menu__link--active + .menu__list {
+  margin-top: 0;
+}
+
+.menu__link--sublist.menu__link--active + .menu__list .menu__list-item {
+  padding-left: 0.5rem;
+}
+
+.menu__link--sublist.menu__link--active + .menu__list .menu__link {
+  padding-left: 1.5rem;
 }
 
 /* Table styling */

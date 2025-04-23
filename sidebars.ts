@@ -13,25 +13,24 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  Create as many sidebars as you want.
  */
 const sidebars: SidebarsConfig = {
-  tutorialSidebar: [
+  guideSidebar: [
     'welcome',
     {
       type: 'category',
       label: 'Getting Started',
       items: [
         'getting-started/installation',
-        'getting-started/creating-your-symphoni',
+        'getting-started/setup',
       ],
     },
-    'composer-interface',
     {
       type: 'category',
       label: 'Create Maps',
       items: [
-        'map/mapstart',
-        'map/adding-notes',
-        'map/editing-notes',
-        'map/maptips',
+        'map/create-notes',
+        'map/edit-notes',
+        'map/delete-notes',
+        'map/utilities',
       ],
     },
     {

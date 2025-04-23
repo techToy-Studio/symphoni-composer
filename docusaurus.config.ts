@@ -68,54 +68,32 @@ const config: Config = {
     navbar: {
       title: 'Symphoni Composer',
       logo: {
-        alt: 'Symphoni Logo',
+        alt: 'Symphoni Composer Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'guideSidebar',
           position: 'left',
           label: 'Guide',
         },
-        // {
-        //   href: 'https://github.com/techToy-Studio/symphoni-composer',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        {
+          href: 'https://github.com/facebook/docusaurus',
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Documentation',
-          items: [
-            {
-              label: 'Getting Started',
-              to: '/symphoni-composer/docs/intro',
-            },
-          ],
-        },
-        {
           title: 'Community',
           items: [
             {
               label: 'Discord',
               href: 'https://discord.gg/symphoni',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/symphonigame',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/techToy-Studio/symphoni-composer',
             },
           ],
         },

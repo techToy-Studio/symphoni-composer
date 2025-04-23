@@ -148,8 +148,8 @@ Resolution: Renewed peace
 
 Now that you understand storytelling, you can:
 
-- [Study Difficulty Balancing](/symphoni-composer/docs/map-design/difficulty)
-- [Learn Performance Optimization](/symphoni-composer/docs/map-design/optimization)
-- [Explore Community Features](/symphoni-composer/docs/community/features)
+- [Study Difficulty Balancing](/symphoni-composer/guide/map-design/difficulty)
+- [Learn Performance Optimization](/symphoni-composer/guide/map-design/optimization)
+- [Explore Community Features](/symphoni-composer/guide/community/features)
 
 Remember, great stories create memorable experiences! 🎵✨ 
