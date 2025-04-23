@@ -7,10 +7,12 @@ description: Learn how to manage notes in your Symphoni level
 # Note Management
 
 ## Create
-1. Select a note from the toolbar.
-2. Click into the timeline OR preview space to create a new note.
+1. Click a note from the toolbar. You are now in "Create mode."
+    - You may choose to click the "Select" option to go back to "Select mode."
+2. The "Create Tool Property" will pop out for you to freely adjust.
+3. Click into the timeline OR preview space to create a new note.
     - If you click into the preview space, the note will be created at the current timestamp.
-3. Upon creating the note, the note will automatically be "selected".
+4. Upon creating the note, the note will automatically be "selected."
 
 ## Select
 1. Select a note by clicking on a note from the timeline OR preview space.

@@ -6,26 +6,26 @@ description: Learn how to edit a bubble
 
 # Bubble
 
-## Basic Editing
-- Click and drag to move notes
-- Right-click to access note properties
-- Use keyboard shortcuts for quick edits
-- Copy and paste notes for patterns
+## Bubble Time Window
 
-## Advanced Editing
-- Adjust note timing
-- Modify note properties
-- Create note patterns
-- Use the grid for precision
+The Arc Time Window refers to the amount of time the arc stays in view within the preview space. This time window is determined by the **Preview Time** dictated in the Setup tab. The longer the **Preview Time**, the slower the note.. and the shorter the **Preview Time**, the faster the note flies towards the ring.
 
-## Editing Tools
-- Selection tools
-- Transform tools
-- Pattern tools
-- Alignment tools
+The time window the player gets to swing at the arc is also dictated by **Preview Time**, so the shorter the **Preview Time** is, the harder it gets for the player to score.
 
-## Tips and Tricks
-- Use keyboard shortcuts
-- Create reusable patterns
-- Test your changes
-- Keep backups 
+## Properties
+
+| Property      | Description                                                                                     |
+|---------------|-------------------------------------------------------------------------------------------------|
+| Timestamp     | The song timestamp in which note perfectly overlaps with ring                                   |
+| Hand          | Dictates which hand should swing at the note (dominant hand, non-dominant hand, both hands)     |
+| Angle         | Indicates where the arc flies from (ranging from 0-360 degrees)                                 |
+| Span          | Indicates how large the arc is (ranging from 0-360 degrees)                                     |
+
+
+## Property Window Edits
+- Upon selecting an arc, you can make edits to it in the properties window. 
+- Arc properties are pretty straightforward!
+
+## Preview Space Edits
+- Drag and drop an arc in the preview space to modify its angle
+- You can also hover & click on an arc in the preview space to select it
