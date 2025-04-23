@@ -9,14 +9,13 @@ description: Get started with Symphoni Composer
 ## Download and Install
 1. Download Symphoni Composer from [itch.io](https://techtoy.itch.io/symphoni-composer)
 2. Unzip the file to local directory
-3. Launch the application
+3. Launch the application by clicking <u>__Symphoni Composer.exe__</u> in the folder
 4. Bypass Firewall Exception if your OS block you from running the app
 
 ## System Requirements
 - Windows 10 or later
 - 4GB RAM minimum
-- 2GB free disk space
-- DirectX 11 compatible graphics card
+- 1GB free disk space
 
 ## Updating Symphoni Composer
 
@@ -27,16 +26,13 @@ Automatic updates are not currently supported.
 
 If you encounter any issues during installation:
 
-1. Ensure your system meets the minimum requirements
-2. Check that you have the latest graphics drivers installed
-3. Try running the app as administrator
-4. Allow your 
-5. Contact support through our [Discord server](https://discord.gg/symphoni)
+1. Try running the app as administrator
+2. Make sure your antivirus or firewall isn’t preventing the app from running
+3. Contact support through our [Discord server](https://discord.gg/symphoni)
 
 ## Next Steps
 
 Now that you have Symphoni Composer installed, you can:
 
 - [Start Creating Your Symphoni](/docs/getting-started/creating-your-symphoni)
-- [Learn the Controls](/docs/getting-started/controls)
-- [Explore Advanced Features](/docs/advanced-features) 
+- [Learn the Composer Interface](/docs/getting-started/map-interface)

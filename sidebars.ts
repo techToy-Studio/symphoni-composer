@@ -14,7 +14,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    'intro',
+    'welcome',
     {
       type: 'category',
       label: 'Getting Started',
@@ -22,7 +22,6 @@ const sidebars: SidebarsConfig = {
         'getting-started/installation',
         'getting-started/creating-your-symphoni',
         'getting-started/map-interface',
-        'getting-started/navigation',
       ],
     },
     {
@@ -45,26 +44,10 @@ const sidebars: SidebarsConfig = {
         'visual/visualtips',
       ],
     },
-    {
-      type: 'doc',
-      id: 'saving',
-      label: 'Saving',
-    },
-    {
-      type: 'doc',
-      id: 'uploading',
-      label: 'Uploading',
-    },
-    {
-      type: 'doc',
-      id: 'controls',
-      label: 'Controls',
-    },
-    {
-      type: 'doc',
-      id: 'faq',
-      label: 'FAQ',
-    },
+    'saving',
+    'uploading',
+    'controls',
+    'faq',
   ],
 };
 

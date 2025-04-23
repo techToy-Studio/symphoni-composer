@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
+title: Welcome to Symphoni Composer
 ---
+
+![Composer Banner](/img/ComposerBanner.png)
 
 # Welcome to Symphoni Composer
 
@@ -10,19 +13,19 @@ Symphoni Composer is the official level editor for **Symphoni**, a mixed reality
 
 - Create custom levels with unique patterns
 - Build immersive environments that enhance the gameplay experience
-- Share your creations with the Symphoni community on mod.io
-- Test and refine your levels before publishing
+- Test and preview your levels before publishing
+- Share your creations with the Symphoni community on Mod.io
 
 ## Getting Started
 
 To begin creating your own Symphoni levels, follow these steps:
 
 1. [Install Symphoni Composer](/docs/getting-started/installation)
-2. [Learn the Basics](/docs/getting-started/basics)
-3. [Create Your First Level](/docs/getting-started/first-level)
-4. [Publish Your Creation](/docs/getting-started/publishing)
+2. [Create Your First Level](/docs/getting-started/creating-your-symphoni)
+2. [Save Your Symphoni](/docs/saving)
+4. [Upload To Mod.io](/docs/uploading)
 
-## Map Design Guide
+<!-- ## Map Design Guide
 
 Creating fun and engaging levels requires careful consideration of various elements. Check out our [Map Design Guide](/docs/map-design) to learn about:
 
@@ -31,18 +34,18 @@ Creating fun and engaging levels requires careful consideration of various eleme
 - [Advanced Patterns](/docs/map-design/advanced-patterns)
 - [Storytelling](/docs/map-design/storytelling)
 - [Difficulty Balancing](/docs/map-design/difficulty)
-- [Performance Optimization](/docs/map-design/optimization)
+- [Performance Optimization](/docs/map-design/optimization) -->
 
-## Advanced Features
+<!-- ## Advanced Features
 
 Take your level design to the next level with our advanced features:
 
 - [Custom Assets](/docs/advanced-features/custom-assets)
 - [Exporting](/docs/advanced-features/exporting)
 - [Performance](/docs/advanced-features/performance)
-- [Scripting](/docs/advanced-features/scripting)
+- [Scripting](/docs/advanced-features/scripting) -->
 
-## Community
+<!-- ## Community
 
 Join our vibrant community of creators:
 
@@ -50,12 +53,11 @@ Join our vibrant community of creators:
 - [Showcase](/docs/community/showcase)
 - [Spotlights](/docs/community/spotlights)
 - [Workshops](/docs/community/workshops)
-- [Features](/docs/community/features)
+- [Features](/docs/community/features) -->
 
 ## Need Help?
 
 - Join our [Discord community](https://discord.gg/symphoni) for real-time support
 - Check out our [FAQ](/docs/faq) for common questions
-- Report issues on our [GitHub repository](https://github.com/symphoni-game/symphoni-composer)
 
 Let's create something magical together! 🎵✨

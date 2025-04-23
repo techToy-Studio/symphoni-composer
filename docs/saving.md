@@ -1,10 +1,10 @@
 ---
 sidebar_position: 7
-title: Saving Progress
+title: Saving & Loading
 description: Learn how to save and manage your Symphoni levels
 ---
 
-# Saving Progress
+# Saving your Symphoni
 
 ## Basic Saving
 - Save frequently (Ctrl + S)
