@@ -5,7 +5,7 @@ description: Learn how to manage visual tracks in your Symphoni level
 
 # Editing Visual Tracks
 
-Before you place down any visual clips, you need to create visual tracks. They are containers for visual clips.
+Visual tracks are containers for visual clips.
 
 ## Adding Tracks
 
@@ -17,7 +17,7 @@ Select a type you want to create and then you can start adding clips into the tr
 
 ## Expanding Tracks
 
-Click on the arrow to expand the track to view the keyframes.
+Click on the arrow to expand/shrink the track to view the keyframes.
 ![Expand Track](/img/expandtrack.png)
 
 ## Removing Tracks
