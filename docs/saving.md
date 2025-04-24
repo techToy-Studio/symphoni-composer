@@ -20,4 +20,4 @@ When you choose to save an existing Symphoni, all level data will be saved to th
 - Save frequently
 - Please make frequent backups upon saving! Composer is _not_ stable yet, so there is a chance your data could get lost due to bugs! 
 - To ensure that your save worked, navigate back to the home page and reload the existing project to make sure all of the data loads as intended. Then, exit the level _without_ saving to make sure the save file stays the same as how you left it.
-- When switching Symphoni projects, it is safer to close the app completely and relaunching before loading in a new one.
+- When switching Symphoni projects, it is safer to close the app completely and relaunch it before loading in a new one.
