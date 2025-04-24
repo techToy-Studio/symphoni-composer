@@ -20,7 +20,7 @@ Symphoni has three types of notes, each with unique mechanics and properties.
 - Click a note from the toolbar to place notes.
 - Click into the timeline OR preview space to create a new note.
     - If you click into the preview space, the note will be created at the current timestamp.
-- Tip: Upon clicking a note from the toolbar, the "Create Tool Property" will appear for you to make edits on note creation.
+- Tip: Upon clicking a note from the toolbar, the _Create Tool Property_ will appear for you to make edits on note creation.
 
 ## Select Notes
 ![Select notes](/img/selectnotes.gif)
