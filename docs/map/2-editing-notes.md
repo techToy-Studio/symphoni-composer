@@ -47,4 +47,4 @@ Symphoni has three types of notes, each with unique mechanics and properties.
 4. In the toolbar, click the **Paste** button. Or press Ctrl+V on your keyboard.
 
 ### Tips and Tricks
-Learn more about [Controls and Shortcuts](/docs/controls)
+Learn more about **[Controls and Shortcuts](/docs/controls)**
