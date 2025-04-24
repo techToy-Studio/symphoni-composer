@@ -7,20 +7,20 @@ description: Learn how to manage notes in your Symphoni level
 # Editing Notes
 
 ## Introduction to Notes in Symphoni
-Notes are [ETHAN: get from GDD PLEASE]
+Notes are interactable cues that players must respond to in time with the music. 
+Notes require specific actions from the player, such as swinging, pointing, or gliding, to match the rhythm and beat of the song.
 
-You can place three types of notes in Symphoni. Each type of Note has unique mechanics and properties.
-To learn more on each specific type of notes, check out:
-[ETHAN: Link Page]
+Symphoni has three types of notes, each with unique mechanics and properties.
+
+- [Arc](/docs/map/3-arc.md)
+- [Bubble](/docs/map/4-bubble.md)
+- [Moving Bubble](/docs/map//5-moving-bubble.md)
 
 ## Create Notes
-1. Click a note from the toolbar to place notes.
-    - Click on the "Select" button to exit "Create Mode"
-[This is no longer the actual flow of how you create a note]
-2. The "Create Tool Property" will pop out for you to freely adjust. [Adjust what]
-3. Click into the timeline OR preview space to create a new note.
+- Click a note from the toolbar to place notes.
+- Click into the timeline OR preview space to create a new note.
     - If you click into the preview space, the note will be created at the current timestamp.
-4. Upon creating the note, the note will automatically be "selected."
+- Tip: Upon clicking a note from the toolbar, the "Create Tool Property" will appear for you to make edits on note creation.
 
 ## Select Notes
 1. Select a note by clicking on a note from the timeline OR preview space.

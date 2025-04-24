@@ -6,19 +6,19 @@ description: Learn how to edit a moving bubble
 
 # Moving Bubble
 
-## Moving Bubble Preview Time Window
+<!-- ## Moving Bubble Preview Time Window
 
 The Moving Bubble Preview Time Window refers to the amount of time the bubble preview shows up before becoming _active_ to detect player input. The Moving Bubble Preview Time Window behaves the same way as the [Bubble Preview Time](/docs/map/bubble#Bubble-Preview-Time-Window).
 
-**Note:** when in an _active_ state, the bubble registers player input
+**Note:** when in an _active_ state, the bubble registers player input -->
 
 ## Properties
 
 | Property      | Description                                                                                          |
 |---------------|------------------------------------------------------------------------------------------------------|
 | Hand          | Dictates which hand should point at the note (dominant hand, non-dominant hand)                      |
-| Timestamp     | The song timestamp in which the bubble becomes **active**                                            |
-| Duration      | The total time duration the the bubble is **active** for                                             |
+| Timestamp     | The song timestamp in which the bubble starts registering player input                               |
+| Duration      | The total time duration the bubble registers player input                                            |
 | Path          | Indicates the path of the moving bubble, requiring a minimum of two positions                        |
 
 

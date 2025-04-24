@@ -6,11 +6,11 @@ description: Learn how to edit a bubble
 
 # Bubble
 
-## Bubble Preview Time Window
+<!-- ## Bubble Preview Time Window
 
 The Bubble Preview Time Window refers to the amount of time the bubble preview shows up before becoming _active_ to detect player input. The Bubble Preview Time Window is equivalent to 50% of the **Note Preview Time** dictated in the Setup tab. The longer the **Note Preview Time**, the slower the preview visual indicator closes in.. and the shorter the **Note Preview Time**, the faster the preview visual indicator becomes.
 
-**Note:** when in an _active_ state, the bubble registers player input
+**Note:** when in an _active_ state, the bubble registers player input -->
 
 ## Properties
 
