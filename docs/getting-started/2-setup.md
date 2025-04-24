@@ -46,13 +46,14 @@ You will enter the **initial setup page for your new symphoni**.
 
 7. **Difficulty Levels**
    - Add and configure difficulty levels (Easy, Medium, Hard, Expert).
-   - Set preview time for each difficulty. **This controls how fast notes are.**
-   - Recommended preview timing value for each level:
+   - Set **preview time** for each difficulty.
+     - Preview time **controls how fast notes are.**
+     - Recommended preview timing value for each level:
 
-     - Easy: ~3 seconds (slower notes)
-     - Medium: ~2 seconds 
-     - Hard: ~1.5 seconds (faster notes)
-     - Expert: &lt;1 second (super fast notes)
+       - Easy: ~3 seconds (slower notes)
+       - Medium: ~2 seconds 
+       - Hard: ~1.5 seconds (faster notes)
+       - Expert: &lt;1 second (super fast notes)
 
 [//]: # (   - *Perfect Trigger Duration for arcs*: 0.1x of the preview time.)
 
