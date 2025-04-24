@@ -11,7 +11,7 @@ Visual Clips represent each visual element you want to put into your Symphoni.
 Basic control for visual clips is similar to controlling [map notes](/docs/map/editing-notes). You can add a clip by selecting Add Clip and click in an existing track. 
 ![Create Visual Clip](/img/addvisualclip.gif)
 
-Deleting, multi-select, dragging are all the same as map notes.
+Deleting, multi-selecting, and dragging are all the same as map notes.
 
 ## Managing Keyframes
 
@@ -19,7 +19,7 @@ In the timeline, keyframes are white diamonds. In the inspector they will show u
 Multi-editing keyframes of different visual clips is NOT supported.
 
 ### Understand the values
-Each type of clip will have some properties that can animate. Animations require keyframes to define their behaviors. 
+Each type of clip contain properties that can be animated. Animations require keyframes to define their behaviors. 
 
 ![Keyframe Property](/img/keyframeproperty.png)
 

@@ -16,8 +16,8 @@ Visual track list can get long, so we made the visual timeline vertically resiza
 ![Resize Timeline](/img/resizetimeline.gif)
 
 ### Camera View
-In visuals, you would want to view the environment from different angles. The Set View tool allows you to control the camera's angle.
-The _Show Gizmos_ button also gives you some helpful indicators to align visual objects.
+In visuals, you would want to view the environment from different angles. The Set View tool allows you to control the camera angle.
+The _Show Gizmos_ button also helps you align visual objects.
 
 ![Set View](/img/setview.png)
 

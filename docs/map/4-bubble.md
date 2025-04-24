@@ -23,8 +23,8 @@ Bubbles are notes that challenge the player to precisely point at an orb over a 
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hand                | Dictates which hand should point at the note (dominant hand, non-dominant hand)                                                                                                                                                                      |
 | Timestamp           | The song timestamp in which the bubble becomes **active**                                                                                                                                                                                            |
-| Duration            | The total time duration the bubble is **active** for                                                                                                                                                                                             |
-| Position (Snap) Unit| - Defines how bubble positions are calculated.<br/> - **Linear**: Defines the (x,y) coordinates of the bubble, where one unit is equivalent to the radius of the ring<br/> - **Radial**: Defines position in angles and distance from the center of the ring |
+| Duration            | The total duration of the time the bubble is **active**                                                                                                                                                                                              |
+| Position (Snap) Unit| - Defines how bubble positions are calculated<br/> - **Linear**: Defines the (x,y) coordinates of the bubble, where one unit is equivalent to the radius of the ring<br/> - **Radial**: Defines position in angles and distance from the center of the ring |
 | Position            | Indicates the position of the bubble                                                                                                                                                                                                                 |
 
 
@@ -42,4 +42,4 @@ Bubbles are notes that challenge the player to precisely point at an orb over a 
   - Timestamp can be modified either by seconds or beat time
 
 ## Additional Tips and Tricks
-- In preview space, you can modify the position by dragging the bubble
+- In preview space, you can modify the position by dragging the bubble inside or outside of the ring

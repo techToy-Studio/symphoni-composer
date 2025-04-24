@@ -26,6 +26,6 @@ Click on the arrow to expand/shrink the track to view the keyframes.
 ![Expand Track](/img/expandtrack.png)
 
 ## Removing Tracks
-To remove a track, simply select a track and click on the trasn can icon.
+To remove a track, simply select a track and click on the trash can icon.
 
 ![Remove Track](/img/deletetrack.png)
