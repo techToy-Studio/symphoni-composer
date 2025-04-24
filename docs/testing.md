@@ -1,9 +1,9 @@
 ---
-title: Testing Your Symphoni
+title: Sideloading Your Symphoni
 description: Learn how to publish and share your Symphoni levels
 ---
 
-# Testing Your Symphoni
+# Sideloading Your Symphoni
 Before publishing your Symphoni on mod.io, you may want to test out your map locally in your headset.
 This page provides a guide on how to sideload your custom song into the game.
 
