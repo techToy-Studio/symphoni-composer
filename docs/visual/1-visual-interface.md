@@ -11,7 +11,7 @@ description: Learn about the Symphoni Composer Visual Interface
 The main components in the visual interface is similar to the [map interface](/docs/map/map-interface), with some small tweaks.
 
 ### Resizable Timeline
-Because visual track list can get long, the visual timeline is vertically resizable. Simply drag the top of the timeline to resize it.
+Visual track list can get long, the visual timeline is vertically resizable. Simply drag the top of the timeline to resize it.
 
 ![Resize Timeline](/img/resizetimeline.gif)
 
