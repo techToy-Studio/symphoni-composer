@@ -11,9 +11,14 @@ Visual tracks are containers for visual clips.
 
 ![Create Track](/img/createtrack.png)
 
-There are four types of tracks. Each track can only contain visual clips of that type.
-
 Select a type you want to create and then you can start adding clips into the track.
+
+Symphoni has four types of visual tracks. Each track can only contain visual clips of that type.
+
+- [Skybox](/docs/visual/clip-skybox)
+- [Image](/docs/visual/clip-image)
+- [Video](/docs/visual/clip-video)
+- [Particle](/docs/visual/clip-particle)
 
 ## Expanding Tracks
 
