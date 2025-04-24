@@ -78,11 +78,6 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -103,6 +98,15 @@ const config: Config = {
             {
               label: 'Discord',
               href: 'https://discord.gg/symphoni',
+            },
+          ],
+        },
+        {
+          title: 'Github',
+          items: [
+            {
+              label: 'Github',
+              href: 'https://github.com/techToy-Studio/symphoni-composer/tree/main/',
             },
           ],
         },
