@@ -14,7 +14,7 @@ The zip file contains all data your Symphoni needs to be distributed, uploaded, 
 
 You may also choose to load an existing Symphoni. This could be a work-in-progress level you are working on, or a level you may have downloaded from someone else.
 
-When you choose to save an existing Symphoni, all data that gets saved will be saved to the existing zip file you loaded into Composer.
+When you choose to save an existing Symphoni, all level data will be saved to the existing zip file you loaded into Composer.
 
 ## Best Practices
 - Save frequently
