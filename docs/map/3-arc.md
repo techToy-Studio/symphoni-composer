@@ -32,7 +32,7 @@ Initially designed to simulate the feeling of conducting in tempo, arcs are note
 ## When Editing an Existing Arc
 - You can **select an existing arc** by:
 
-  - hover & click on an arc in the viewport to select it
+  - Hover & click on an arc in the viewport to select it
   - Click on the arc in the timeline window
 - Upon selecting an arc, **you can make edits to it in the _Note Property Window_**
   - Timestamp can be modified either by seconds or beat time
