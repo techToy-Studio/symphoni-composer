@@ -28,7 +28,7 @@ const sidebars: SidebarsConfig = {
       label: 'Create Maps',
       items: [
         'map/map-interface',
-        'map/note-management',
+        'map/editing-notes',
         'map/arc',
         'map/bubble',
         'map/moving-bubble',
