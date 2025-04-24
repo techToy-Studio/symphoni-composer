@@ -8,14 +8,16 @@ description: Learn how to edit an arc
 
 <!-- 
 ## Arc Preview Time Window
-The Arc Preview Time Window refers to the amount of time the arc stays in view within the viewport before it overlaps with the ring. The Arc Preview Time Window is exactly equivalent to the **Note Preview Time** dictated in the Setup tab. The longer the **Note Preview Time**, the slower the note.. and the shorter the **Note Preview Time**, the faster the note flies towards the ring. -->
+The Arc Preview Time Window refers to the amount of time the arc stays in view within the viewport before it overlaps with the ring. The Arc Preview Time Window is exactly equivalent to the **Note Preview Time** dictated in the Setup tab. The longer the **Note Preview Time**, the slower the note.. and the shorter the **Note Preview Time**, the faster the note flies towards the ring.
 
-The time window the player gets to swing at the arc is also dictated by **Note Preview Time**, so the shorter the **Note Preview Time** is, the harder it becomes for the player to score.
+The time window the player gets to swing at the arc is also dictated by **Note Preview Time**, so the shorter the **Note Preview Time** is, the harder it becomes for the player to score. -->
 
 ## What are Arcs in Symphoni?
 Initially designed to simulate the feeling of conducting in tempo, arcs are notes that challenge the player to swing their hand in various directions, in the aims of matching the beat of a song.
 
-## Editable Arc Properties
+![Edit Arc](/img/arc-edit.png)
+
+## Arc Properties
 
 | Property      | Description                                                                                 |
 |---------------|---------------------------------------------------------------------------------------------|

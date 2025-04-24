@@ -15,6 +15,8 @@ The Moving Bubble Preview Time Window refers to the amount of time the bubble pr
 ## What are Moving Bubbles in Symphoni?
 Moving Bubbles are notes that challenge the player to precisely point at a moving orb over a period of time.
 
+![Edit Moving Bubble](/img/moving-bubble-edit.png)
+
 ## Properties
 
 | Property      | Description                                                                                                                                                                                                                                                |

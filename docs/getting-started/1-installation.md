@@ -36,4 +36,4 @@ If you encounter any issues launching the app:
 ## Next Steps
 
 - [Start Creating Your Symphoni](/docs/getting-started/setup)
-- [Learn the Composer Interface](/docs/getting-started/map-interface)
+- [Learn the Composer Interface](/docs/map/map-interface)

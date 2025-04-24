@@ -15,6 +15,8 @@ The Bubble Preview Time Window refers to the amount of time the bubble preview s
 ## What are Bubbles in Symphoni?
 Bubbles are notes that challenge the player to precisely point at an orb over a period of time.
 
+![Edit Bubble](/img/bubble-edit.png)
+
 ## Properties
 
 | Property            | Description                                                                                                                                                                                                                                          |
