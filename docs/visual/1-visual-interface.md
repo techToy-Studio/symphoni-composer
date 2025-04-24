@@ -25,4 +25,5 @@ Show Gizmos gives you some helpful indicators to align elements.
 ### Edit tool bar
 In visuals you only have two edit modes. Add Clip mode will auto decide which type you are trying to add by hovering over tracks.
 
-### Find more control shortcuts at [Controls and Shortcuts](/docs/controls)
+### Tips and Tricks
+Find more control shortcuts at **[Controls and Shortcuts](/docs/controls)**
