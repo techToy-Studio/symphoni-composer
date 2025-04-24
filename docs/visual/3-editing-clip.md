@@ -5,7 +5,7 @@ description: Learn how to manage visual clips in your Symphoni level
 
 # Editing Visual Clips
 
-Visual Clips are vehicles that represent each visual element you want to put into your Symphoni.
+Visual Clips represent each visual element you want to put into your Symphoni.
 
 ## Visual Clip Controls
 Basic control for visual clips is similar to controlling [map notes](/docs/map/note-management). You can add a clip by selecting Add Clip and click in an existing track. 
