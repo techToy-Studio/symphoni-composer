@@ -9,13 +9,13 @@ Here you'll find answers to common questions about Symphoni Composer. If you don
 ## General Questions
 
 ### What is Symphoni Composer?
-Symphoni Composer is the official level editor for Symphoni, allowing creators to design and build custom levels for the game. It provides tools for creating musical patterns, designing environments, and testing levels before publishing.
+Symphoni Composer is the official level editor for Symphoni, allowing creators to design and build custom levels for the game. It provides tools for creating musical patterns, designing environments, and simulating levels before publishing.
 
 ### Is Symphoni Composer free to use?
 Yes! Symphoni Composer is completely free to download and use. You can create and share as many levels as you want.
 
 ### What file formats are supported?
-Right now Symphoni Composer supports:
+Symphoni Composer currently supports:
 - Audio: OGG
 - Image: PNG
 - Video: MP4

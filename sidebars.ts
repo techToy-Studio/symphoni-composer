@@ -45,7 +45,7 @@ const sidebars: SidebarsConfig = {
       ]
     },
     'saving',
-    'uploading',
+    'publishing',
     'controls',
     'faq',
   ],

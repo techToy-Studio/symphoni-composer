@@ -1,9 +1,9 @@
 ---
-title: Uploading Your Symphoni
-description: Learn how to upload and share your Symphoni levels
+title: Publishing Your Symphoni
+description: Learn how to publish and share your Symphoni levels
 ---
 
-# Uploading Your Symphoni
+# Publishing Your Symphoni
 **[Mod.io](https://mod.io/g/symphoni)** is the official platform used by Symphoni to publish and share your creations.
 
 
