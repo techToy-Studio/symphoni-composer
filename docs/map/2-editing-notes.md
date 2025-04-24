@@ -11,18 +11,19 @@ Notes are interactable cues that players must respond to in time with the music.
 Notes require specific actions from the player, such as swinging, pointing, or gliding, to match the rhythm and beat of the song.
 
 Symphoni has three types of notes, each with unique mechanics and properties.
-
 - [Arc](/docs/map/3-arc.md)
 - [Bubble](/docs/map/4-bubble.md)
 - [Moving Bubble](/docs/map//5-moving-bubble.md)
 
 ## Create Notes
+![Create notes](/img/createArcs.png)
 - Click a note from the toolbar to place notes.
 - Click into the timeline OR preview space to create a new note.
     - If you click into the preview space, the note will be created at the current timestamp.
 - Tip: Upon clicking a note from the toolbar, the "Create Tool Property" will appear for you to make edits on note creation.
 
 ## Select Notes
+![Select notes](/img/selectBubble.png)
 1. Select a note by clicking on a note from the timeline OR preview space.
 2. You will see a property window appear.
     - You can edit note properties in the property window.
