@@ -17,8 +17,8 @@ The Bubble Preview Time Window refers to the amount of time the bubble preview s
 | Property      | Description                                                                                          |
 |---------------|------------------------------------------------------------------------------------------------------|
 | Hand          | Dictates which hand should point at the note (dominant hand, non-dominant hand)                      |
-| Timestamp     | The song timestamp in which the bubble becomes **active**                                            |
-| Duration      | The total time duration the the bubble is **active** for                                             |
+| Timestamp     | The song timestamp in which the bubble starts registering player input                               |
+| Duration      | The total time duration the the bubble registers player input                                        |
 | Position      | Indicates the position of the bubble                                                                 |
 
 
