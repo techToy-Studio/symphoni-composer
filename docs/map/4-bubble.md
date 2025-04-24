@@ -33,9 +33,11 @@ Bubbles are notes that challenge the player to precisely point at an orb over a 
 
 ## When Editing an Existing Bubble
 - You can **select an existing bubble** by:
+
   - Hover & click on a bubble in the preview space to select it
   - Click on the bubble in the timeline window
 - Upon selecting a bubble, **you can make edits to it in the _Note Property Window_**
+
   - Timestamp here represents the start time of the bubble (when it becomes active)
   - Timestamp can be modified either by seconds or beat time
 
