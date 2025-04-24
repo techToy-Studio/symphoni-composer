@@ -23,7 +23,7 @@ To begin creating your own Symphoni levels, follow these steps:
 1. [Install Symphoni Composer](/docs/getting-started/installation)
 2. [Create Your First Level](/docs/getting-started/setup)
 2. [Save Your Symphoni](/docs/saving)
-4. [Upload To Mod.io](/docs/publishing)
+4. [Upload to Mod.io](/docs/publishing)
 
 ## Need Help?
 
