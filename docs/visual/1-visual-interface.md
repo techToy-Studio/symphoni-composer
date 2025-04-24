@@ -22,7 +22,7 @@ The _Show Gizmos_ button also gives you some helpful indicators to align element
 ![Set View](/img/setview.png)
 
 ### Visual Components
-There are two main components in the visual interface:
+There are two visual components in the visual interface:
 1. **[Visual Tracks](/docs/visual/editing-track)**
 2. **[Visual Clips](/docs/visual/editing-clip)**
 
