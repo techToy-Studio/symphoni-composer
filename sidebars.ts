@@ -45,6 +45,7 @@ const sidebars: SidebarsConfig = {
       ]
     },
     'saving',
+    'testing',
     'publishing',
     'controls',
     'faq',
