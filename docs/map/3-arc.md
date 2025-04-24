@@ -38,4 +38,4 @@ Initially designed to simulate the feeling of conducting in tempo, arcs are note
   - Timestamp can be modified either by seconds or beat time
 
 ## Additional Tips and Tricks
-- In viewport, you can modify the arc's angle by dragging the arc
+- In viewport, you can modify the arc's angle by dragging the arc around the ring
