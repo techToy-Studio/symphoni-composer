@@ -15,7 +15,7 @@ Deleting, multi-select, dragging are all the same as map notes.
 
 ## Managing Keyframes
 
-In the timeline keyframes are white diamonds. In the inspector they will show up as properties with diamonds and arrows in front of the property field.
+In the timeline, keyframes are white diamonds. In the inspector they will show up as properties with diamonds and arrows in front of the property field.
 Multi-editing keyframes of different visual clips is NOT supported.
 
 ### Understand the values
@@ -23,19 +23,19 @@ Each type of clip will have some properties that can animate. Animations require
 
 ![Keyframe Property](/img/keyframeproperty.png)
 
-- If there are arrows beside the diamond, this property in this visual clip has keyframes, the property will show its __real-time value__ at the current cursor time.
-- If the diamond is blue, there's a keyframe for this property at the __current cursor time__.
+- If there are arrows beside the diamond, the property in this visual clip has keyframes, the property will show its __real-time value__ at the current cursor time.
+- If the diamond is blue, there's a keyframe for the property at the __current cursor time__.
 - If the diamond is grey but there are arrows beside it, there's no key frame at the current cursor time.
-- If there are NO arrows beside the diamond, this property in this visual clip is __static__, the property field will be showing its static value.
+- If there are NO arrows beside the diamond, the property in this visual clip is __static__, the property field will be showing its static value.
 
 ### Navigate between keyframes
 Use the arrows to navigate between keyframes in this clip.
 
-In the timeline they function just like visual clips. You can drag to move them around, and also select or multi-select them. You can even copy paste them.
+In the timeline, they function just like visual clips. You can select, multi-select, or drag to move them around. You can even copy & paste them.
 
-Just remember, editing keyframes of different clips is not supported.
+Just remember, multi-editing keyframes across different clips is not supported.
 ### Add a keyframe
-First you need to make sure the cursor time is within this visual clips duration. The diamond won't be interactable if the current time is not within valid range of the clip.
+First you need to make sure the cursor time is within this visual clip's duration. The diamond won't be interactable if the current time is not within valid range of the clip.
 To add a keyframe, simply click any grey diamond.
 
 Or if there are already keyframes for this property, changing the value at a different time will automatically create a keyframe at that time with the new value.
@@ -44,6 +44,6 @@ Or if there are already keyframes for this property, changing the value at a dif
 
 
 ### Delete a keyframe
-You can delete a keyframe in the timeline just like manipulating a visual clip, or you can click the diamond when it's blue (there's a keyframe at this time) to delete that keyframe.
+You can delete a keyframe in the timeline just like deleting a visual clip, or you can click the diamond when it's blue to delete that keyframe (the keyframe becomes blue when the cursor timestamp is aligned).
 
 
