@@ -19,6 +19,6 @@ The supported file format right now is .png, which will read the alpha of your s
 ## Static Properties
 | Property                 | Description |
 |--------------------------|-------------|
-| Time                     |Specifies when the image first appears during the map sequence. You can adjust this by setting the value manually or by dragging the clip’s start point in the timeline.             |
-| Duration                 |This defines how long the image is visible during the map sequence. Tip: You can also adjust the timing by dragging the image clip directly in the timeline.|
+| Time                     |Specifies when the image first appears. You can adjust this by setting the value manually or by dragging the clip’s start point in the timeline.             |
+| Duration                 |This defines how long the image is visible. Tip: You can also adjust the timing by dragging the image clip directly in the timeline.|
 | Image Texture            |Select the image source file here. (Only .png format is supported at this time.)|
