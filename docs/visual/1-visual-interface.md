@@ -11,13 +11,13 @@ description: Learn about the Symphoni Composer Visual Interface
 The visual interface is similar to the [map interface](/docs/map/map-interface), with some small tweaks.
 
 ### Resizable Timeline
-Visual track list can get long, so we made the visual timeline is vertically resizable. Simply drag the top of the timeline to resize it.
+Visual track list can get long, so we made the visual timeline vertically resizable. Simply drag the top of the timeline to resize it.
 
 ![Resize Timeline](/img/resizetimeline.gif)
 
 ### Camera View
-In visuals you would want to view the environment at different angles. The Set View tool allows you to control the camera's angle.
-The _Show Gizmos_ button also gives you some helpful indicators to align elements.
+In visuals, you would want to view the environment from different angles. The Set View tool allows you to control the camera's angle.
+The _Show Gizmos_ button also gives you some helpful indicators to align visual objects.
 
 ![Set View](/img/setview.png)
 
