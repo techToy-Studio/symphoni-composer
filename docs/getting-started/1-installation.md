@@ -10,7 +10,7 @@ description: Get started with Symphoni Composer
  1. Download Symphoni Composer from **[itch.io](https://techtoy.itch.io/symphoni-composer)**
  2. Unzip the file to local directory
  3. Launch the application by clicking <u>__Symphoni Composer.exe__</u> in the folder
- 4. Bypass Firewall Exception if your OS block you from running the app
+ 4. Bypass Firewall Exception if your OS blocks you from running the app
 
 ## System Requirements
 
@@ -20,9 +20,9 @@ description: Get started with Symphoni Composer
 
 ## Updating Symphoni Composer
 
-**Automatic updates are not currently supported.**
+**Automatic updates are not currently supported**
 
-You will need to manually update the application each time a new version is released.
+You will need to manually update the application each time a new version is released
 
 ## Troubleshooting
 
