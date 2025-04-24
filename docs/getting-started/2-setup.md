@@ -16,6 +16,7 @@ You will enter the **initial setup page for your new symphoni**.
 
 1. **Set Music**
    - Choose the audio for your Symphoni.
+   - Format: OGG
 
 2. **Cover Image**
    - Add a cover image to represent your Symphoni in the game.

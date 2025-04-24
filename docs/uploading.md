@@ -1,33 +1,19 @@
 ---
-sidebar_position: 8
 title: Uploading Your Symphoni
 description: Learn how to upload and share your Symphoni levels
 ---
 
 # Uploading Your Symphoni
+**[Mod.io](https://mod.io/g/symphoni)** is the official platform used by Symphoni to publish and share your creations.
+
 
 ## Publishing Process
-1. Test your level
-2. Add metadata
-3. Choose visibility
-4. Submit for review
-
-## Level Details
-- Title and description
-- Difficulty rating
-- Tags and categories
-- Preview image
-- Music credits
-
-## Publishing Options
-1. Export for local play
-2. Publish to Symphoni Hub
-3. Share with friends
-4. Create level packs
+1. To publish your symphoni, simply click on the **Add Mod** button on the top right of the **[Mod.io](https://mod.io/g/symphoni)** page.
+2. Follow the steps on the website.
 
 ## Best Practices
-- Test thoroughly before publishing
-- Get feedback from others
-- Write clear descriptions
-- Use appropriate tags
-- Follow community guidelines 
+- Get feedback from others. You can share your Symphoni in the [discord community](https://discord.gg/symphoni) to get feedback from other players.
+- Use appropriate tags. Adding tags can increase the chance your map will be found by other players.
+- Follow community guidelines 🙂
+
+Happy creating in Symphoni Composer!

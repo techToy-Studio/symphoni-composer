@@ -1,45 +1,42 @@
 ---
-sidebar_position: 3
 title: Controls and Shortcuts
-description: Learn the essential controls and shortcuts in Symphoni Composer
+description: Essential controls and shortcuts in Symphoni Composer
 ---
 
-# Controls and Shortcuts
+## Navigation
+- Viewport Navigate — Mouse scroll in viewport space
+- Viewport Zoom — CTRL + Mouse scroll in viewport space
+- Timeline Navigate — Mouse scroll in timeline
+- Timeline Zoom — CTRL + Mouse scroll in timeline
 
-## Basic Controls
-- **Left Click**: Select and place notes
-- **Right Click**: Open context menu
-- **Scroll Wheel**: Zoom in/out
-- **Spacebar**: Play/pause preview
+## Map Tools
+- Select Tool — V
+- Arc Left Hand - Q
+- Arc Right Hand - E
+- Arc Both Hand - W
+- Bubble Left - A
+- Bubble Right - S
+- Moving Bubble Left - D
+- Moving Bubble Right - F
 
-## Timeline Navigation
-- **Arrow Keys**: Move through timeline
-- **Ctrl + Arrow Keys**: Jump between sections
-- **Home/End**: Go to start/end of level
-- **Page Up/Down**: Scroll timeline view
+## Visual Tools
+- Select Tool — V
+- Add Clip Tool - Q
 
-## Note Editing
-- **Ctrl + C**: Copy selected notes
-- **Ctrl + V**: Paste notes
-- **Ctrl + X**: Cut selected notes
-- **Delete**: Remove selected notes
-- **Ctrl + Z**: Undo
-- **Ctrl + Y**: Redo
+## Timeline Actions
+- Snap to ¼ beat - Ctrl+4
+- Snap to ⅓ beat - Ctrl+3
+- Snap to ½ beat  - Ctrl+2
+- Snap to 1 beat  - Ctrl+1
+- Snap to None  - Ctrl+0
+- Play/Pause - Space
 
-## View Controls
-- **Ctrl + +**: Zoom in
-- **Ctrl + -**: Zoom out
-- **Ctrl + 0**: Reset zoom
-- **F**: Fit timeline to view
+## Actions
+- Copy - Ctrl+C
+- Paste - Ctrl+V
+- Duplicate - Ctrl+D
+- Delete - Delete
+- Undo - Ctrl+Z
+- Redo - Ctrl+Shift+Z
 
-## Playback Controls
-- **Space**: Play/pause
-- **Ctrl + Space**: Play from start
-- **Shift + Space**: Play from selection
-- **Esc**: Stop playback
-
-## Essential Tips
-- Save frequently (Ctrl+S)
-- Use keyboard shortcuts for efficiency
-- Customize shortcuts in settings
-- Practice common combinations 
+- Save Level - Ctrl+S
