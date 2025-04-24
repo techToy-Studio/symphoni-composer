@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksymphoni_composer=self.webpackChunksymphoni_composer||[]).push([[3477],{1469:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/symphoni-composer/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
